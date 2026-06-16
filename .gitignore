@@ -141,3 +141,39 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# ==========================================
+# 🐍 Python & Data Science (Coringa)
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.ipynb_checkpoints/
+*.ipynb
+
+# ==========================================
+# 🗄️ Bancos de Dados & Local Storage
+# ==========================================
+*.db
+*.sqlite
+*.sqlite3
+# Se usar PostgreSQL local ou Docker, evita subir dumps acidentais
+*.sql
+.data/
+
+# ==========================================
+# 💻 Editores de Código / Sistemas Operacionais
+# ==========================================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+Thumbs.db
