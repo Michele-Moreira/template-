@@ -53,6 +53,7 @@ Este repositório é uma base sólida para começar projetos rápidos sem perder
 
 ### Mais recursos neste template
 
+- `.agents/` — instruções operacionais para agentes, regras e uso de subagentes.
 - `docs/STARTER_GUIDE.md` — guia de início ágil.
 - `docs/PROJECT_STRUCTURE.md` — explicação da organização de pastas.
 
